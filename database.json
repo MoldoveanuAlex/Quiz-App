@@ -1,0 +1,319 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "question": "Which of the following best defines opportunity cost?",
+      "options": {
+        "a": "The cost of producing one additional unit of a good",
+        "b": "The monetary cost of a product or service",
+        "c": "The value of the next best alternative forgone when a choice is made",
+        "d": "The total cost of all inputs required for production"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 1,
+      "question": "In a market economy, prices are primarily determined by:",
+      "options": {
+        "a": "Government regulations",
+        "b": "Consumer demand and supply from firms",
+        "c": "The total cost of production",
+        "d": "Historical pricing data"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT considered a macroeconomic variable?",
+      "options": {
+        "a": "Unemployment rate",
+        "b": "Gross Domestic Product (GDP)",
+        "c": "Individual household income",
+        "d": "Inflation rate"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 3,
+      "question": "What does the term 'Gini coefficient' measure in economics?",
+      "options": {
+        "a": "Consumer price index",
+        "b": "Income inequality",
+        "c": "Gross domestic product per capita",
+        "d": "National debt ratio"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 4,
+      "question": "When the demand for a good increases while its supply decreases, what is the likely effect on the equilibrium price and quantity?",
+      "options": {
+        "a": "Price increases, quantity decreases",
+        "b": "Price decreases, quantity decreases",
+        "c": "Price increases, quantity increases",
+        "d": "Price decreases, quantity increases"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 5,
+      "question": "Which economic system is characterized by private ownership of resources and minimal government intervention?",
+      "options": {
+        "a": "Capitalism",
+        "b": "Communism",
+        "c": "Socialism",
+        "d": "Mercantilism"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 6,
+      "question": "The Phillips Curve illustrates the relationship between:",
+      "options": {
+        "a": "Inflation and unemployment",
+        "b": "Interest rates and inflation",
+        "c": "GDP and unemployment",
+        "d": "Exchange rates and GDP"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 7,
+      "question": "What is the role of the Federal Reserve in the United States?",
+      "options": {
+        "a": "Fiscal policy implementation",
+        "b": "Monetary policy regulation",
+        "c": "Tax collection",
+        "d": "Foreign trade negotiations"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 8,
+      "question": "Which market structure is characterized by a large number of firms selling differentiated products?",
+      "options": {
+        "a": "Monopoly",
+        "b": "Oligopoly",
+        "c": "Monopolistic competition",
+        "d": "Perfect competition"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 9,
+      "question": "What is the primary function of the World Bank?",
+      "options": {
+        "a": "Providing financial assistance to developing countries",
+        "b": "Regulating global trade policies",
+        "c": "Issuing a global currency",
+        "d": "Conducting research on economic trends"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 10,
+      "question": "Which event marked the beginning of World War I?",
+      "options": {
+        "a": "Assassination of Archduke Franz Ferdinand",
+        "b": "Treaty of Versailles",
+        "c": "The sinking of the Lusitania",
+        "d": "The Battle of the Somme"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 11,
+      "question": "Who was the first female Prime Minister of Great Britain?",
+      "options": {
+        "a": "Margaret Thatcher",
+        "b": "Angela Merkel",
+        "c": "Theresa May",
+        "d": "Indira Gandhi"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 12,
+      "question": "The Magna Carta, signed in 1215, aimed to limit the power of which authority?",
+      "options": {
+        "a": "The Church",
+        "b": "The Monarchy",
+        "c": "The Feudal Lords",
+        "d": "The Parliament"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 13,
+      "question": "Which ancient civilization built the Machu Picchu complex?",
+      "options": {
+        "a": "Mayans",
+        "b": "Aztecs",
+        "c": "Incas",
+        "d": "Egyptians"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 14,
+      "question": "What was the main cause of the American Civil War?",
+      "options": {
+        "a": "Economic differences between North and South",
+        "b": "Disagreements over states' rights",
+        "c": "Slavery",
+        "d": "Manifest Destiny"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 15,
+      "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+      "options": {
+        "a": "Joseph Stalin",
+        "b": "Vladimir Lenin",
+        "c": "Nikita Khrushchev",
+        "d": "Leonid Brezhnev"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 16,
+      "question": "The Treaty of Versailles, ending World War I, imposed heavy penalties on which country?",
+      "options": {
+        "a": "Germany",
+        "b": "France",
+        "c": "United Kingdom",
+        "d": "Italy"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 17,
+      "question": "Which ancient wonder of the world was located in Greece and dedicated to the goddess Athena?",
+      "options": {
+        "a": "Great Pyramid of Giza",
+        "b": "Hanging Gardens of Babylon",
+        "c": "Colossus of Rhodes",
+        "d": "Parthenon"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 18,
+      "question": "Who was the first president of the United States?",
+      "options": {
+        "a": "Thomas Jefferson",
+        "b": "John Adams",
+        "c": "George Washington",
+        "d": "James Madison"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 19,
+      "question": "Which event signaled the end of the Roman Republic and the beginning of the Roman Empire?",
+      "options": {
+        "a": "The Punic Wars",
+        "b": "The assassination of Julius Caesar",
+        "c": "The Battle of Actium",
+        "d": "The reign of Augustus"
+      },
+      "answer": "b"
+    }
+  ],
+  "users": [
+    {
+      "username": "354435",
+      "id": 1
+    },
+    {
+      "username": "325",
+      "id": 2
+    },
+    {
+      "username": "rtr",
+      "id": 3
+    },
+    {
+      "username": "g5",
+      "id": 4
+    },
+    {
+      "username": "dfefe",
+      "id": 5
+    },
+    {
+      "username": "rfrfr",
+      "id": 6
+    },
+    {
+      "username": "fr",
+      "id": 7
+    },
+    {
+      "username": "45",
+      "id": 8
+    },
+    {
+      "username": "fr",
+      "id": 9
+    },
+    {
+      "username": "frfr",
+      "id": 10
+    },
+    {
+      "username": "fr",
+      "id": 11
+    },
+    {
+      "username": "frf",
+      "id": 12
+    },
+    {
+      "username": "frfr",
+      "id": 13
+    },
+    {
+      "username": "frfr",
+      "id": 14
+    },
+    {
+      "username": "fr",
+      "id": 15
+    },
+    {
+      "username": "r4r4555",
+      "id": 16
+    },
+    {
+      "username": "frfr",
+      "id": 17
+    },
+    {
+      "username": "frfr",
+      "id": 18
+    },
+    {
+      "username": "frfr",
+      "id": 19
+    },
+    {
+      "username": "frfr",
+      "id": 20
+    },
+    {
+      "username": "5464",
+      "id": 21
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 0,
+      "user_id": 0,
+      "startedAt": 0,
+      "finishedAt": 0,
+      "score": 0
+    }
+  ]
+}
