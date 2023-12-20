@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Quiz from "./components/Quiz";
-const endpoint = "https://server-u5gj.onrender.com/";
+const endpoint = "https://quiz-app-db.onrender.com/";
 
 function App() {
   const [formData, setFormData] = useState({

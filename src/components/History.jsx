@@ -1,13 +1,13 @@
 import { useState, useEffect, useRef } from "react";
 function History({ user_id }) {
-  const endpoint = "https://server-u5gj.onrender.com/quizzes";
+  const endpoint = "https://quiz-app-db.onrender.com/";
   const [elements, setElemets] = useState(<></>);
 
   const response = useRef(null);
 
   const getQuizzes = async (user_id) => {
     try {
-      const response = await fetch(`${endpoint}/?user_id=${user_id}`, {
+      const response = await fetch(`${endpoint}quizzes/?user_id=${user_id}`, {
         headers: { "Access-Control-Allow-Origin": "*" },
       });
       const data = await response.json();

@@ -4,7 +4,7 @@ import Question from "./Question";
 import Score from "./Score.jsx";
 import "./Question.css";
 
-const endpoint = "https://server-u5gj.onrender.com/quizzes";
+const endpoint = "https://quiz-app-db.onrender.com/";
 
 function Quiz({ user_id, questions }) {
   const [score, setScore] = useState(0);
@@ -60,7 +60,7 @@ function Quiz({ user_id, questions }) {
         finishedAt: functionCallTimestamp.current,
         duration: `${hoursDifference} hours, ${minutesDifference} minutes and ${secondsDifference} seconds`,
       };
-      await fetch(`${endpoint}`, {
+      await fetch(`${endpoint}quizzes`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
