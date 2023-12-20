@@ -223,88 +223,12 @@
   ],
   "users": [
     {
-      "username": "354435",
+      "username": "alex",
       "id": 1
     },
     {
-      "username": "325",
+      "username": "",
       "id": 2
-    },
-    {
-      "username": "rtr",
-      "id": 3
-    },
-    {
-      "username": "g5",
-      "id": 4
-    },
-    {
-      "username": "dfefe",
-      "id": 5
-    },
-    {
-      "username": "rfrfr",
-      "id": 6
-    },
-    {
-      "username": "fr",
-      "id": 7
-    },
-    {
-      "username": "45",
-      "id": 8
-    },
-    {
-      "username": "fr",
-      "id": 9
-    },
-    {
-      "username": "frfr",
-      "id": 10
-    },
-    {
-      "username": "fr",
-      "id": 11
-    },
-    {
-      "username": "frf",
-      "id": 12
-    },
-    {
-      "username": "frfr",
-      "id": 13
-    },
-    {
-      "username": "frfr",
-      "id": 14
-    },
-    {
-      "username": "fr",
-      "id": 15
-    },
-    {
-      "username": "r4r4555",
-      "id": 16
-    },
-    {
-      "username": "frfr",
-      "id": 17
-    },
-    {
-      "username": "frfr",
-      "id": 18
-    },
-    {
-      "username": "frfr",
-      "id": 19
-    },
-    {
-      "username": "frfr",
-      "id": 20
-    },
-    {
-      "username": "5464",
-      "id": 21
     }
   ],
   "quizzes": [
@@ -314,6 +238,30 @@
       "startedAt": 0,
       "finishedAt": 0,
       "score": 0
+    },
+    {
+      "user_id": 1,
+      "score": 4,
+      "startedAt": "2023-12-20T13:36:32.870Z",
+      "finishedAt": "2023-12-20T13:36:37.768Z",
+      "duration": "0 hours, 0 minutes and 4 seconds",
+      "id": 1
+    },
+    {
+      "user_id": 1,
+      "score": 2,
+      "startedAt": "2023-12-20T13:36:55.131Z",
+      "finishedAt": "2023-12-20T13:36:59.369Z",
+      "duration": "0 hours, 0 minutes and 4 seconds",
+      "id": 2
+    },
+    {
+      "user_id": 1,
+      "score": 5,
+      "startedAt": "2023-12-20T14:02:35.045Z",
+      "finishedAt": "2023-12-20T14:03:02.360Z",
+      "duration": "0 hours, 0 minutes and 27 seconds",
+      "id": 3
     }
   ]
 }
