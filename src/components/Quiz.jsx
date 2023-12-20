@@ -64,6 +64,8 @@ function Quiz({ user_id, questions }) {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
+          "Access-Control-Allow-Origin": "*",
+
         },
         body: JSON.stringify(quizObject.current),
       });

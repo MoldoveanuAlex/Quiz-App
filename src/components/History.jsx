@@ -7,7 +7,9 @@ function History({ user_id }) {
 
   const getQuizzes = async (user_id) => {
     try {
-      const response = await fetch(`${endpoint}/?user_id=${user_id}`);
+      const response = await fetch(`${endpoint}/?user_id=${user_id}`, {
+        headers: { "Access-Control-Allow-Origin": "*" },
+      });
       const data = await response.json();
       return data;
     } catch (error) {
