@@ -4,7 +4,7 @@ import Question from "./Question";
 import Score from "./Score.jsx";
 import "./Question.css";
 
-const endpoint = "http://localhost:3000/quizzes";
+const endpoint = "https://fxlqdtxk-3000.euw.devtunnels.ms/quizzes";
 
 function Quiz({ user_id, questions }) {
   const [score, setScore] = useState(0);

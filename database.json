@@ -262,6 +262,14 @@
       "finishedAt": "2023-12-20T14:03:02.360Z",
       "duration": "0 hours, 0 minutes and 27 seconds",
       "id": 3
+    },
+    {
+      "user_id": 1,
+      "score": 3,
+      "startedAt": "2023-12-20T14:44:52.242Z",
+      "finishedAt": "2023-12-20T14:45:05.776Z",
+      "duration": "0 hours, 0 minutes and 13 seconds",
+      "id": 4
     }
   ]
 }

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Quiz from "./components/Quiz";
-const endpoint = "http://localhost:3000/";
+const endpoint = "https://fxlqdtxk-3000.euw.devtunnels.ms/";
 
 function App() {
   const [formData, setFormData] = useState({
