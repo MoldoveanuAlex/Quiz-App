@@ -90,7 +90,7 @@ function Quiz({ user_id, questions }) {
       >
         <h1 className="floating">Quiz App</h1>
         <Question
-          index={20 - questions.length}
+          index={50 - questions.length}
           question={question}
           onOptionSelect={handleAnswer}
         ></Question>
