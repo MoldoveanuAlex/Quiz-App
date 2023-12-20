@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 function History({ user_id }) {
-  const endpoint = "https://fxlqdtxk-3000.euw.devtunnels.ms/quizzes";
+  const endpoint = "https://server-u5gj.onrender.com/quizzes";
   const [elements, setElemets] = useState(<></>);
 
   const response = useRef(null);
