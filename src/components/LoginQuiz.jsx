@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Quiz from "./Quiz";
 const endpoint = "https://quiz-app-db.onrender.com/";
 
@@ -9,7 +9,7 @@ function LoginQuiz() {
   const [started, setIsStarted] = useState(false);
   const [questions, setQuestions] = useState(null);
   const [id, setId] = useState(0);
-  const [isLoading, setIsLoading] = useState(false)
+  const [isLoading, setIsLoading] = useState(false);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -20,7 +20,7 @@ function LoginQuiz() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setIsLoading(true)
+    setIsLoading(true);
     const enteredUserId = await getId(formData.username);
 
     if (enteredUserId == undefined) {
@@ -36,7 +36,10 @@ function LoginQuiz() {
       } catch (error) {
         console.error(error);
       }
-    } else console.log("User already exists!");
+    } else {
+      setId(enteredUserId);
+      console.log("User already exists!");
+    }
     handleStart();
   };
 
@@ -61,12 +64,10 @@ function LoginQuiz() {
   };
 
   async function handleStart() {
-    const userId = await getId(formData.username);
     const allQuestions = await getQuestions();
-    setId(userId);
     setQuestions(allQuestions);
     setIsStarted(true);
-    setIsLoading(false)
+    setIsLoading(false);
   }
   return started ? (
     <Quiz user_id={id} questions={questions} />
